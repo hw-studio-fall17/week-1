@@ -1,15 +1,14 @@
 # Intro to HTML!
 
-#### Open the week_1 folder in sublime. Notice the filenames: `mr-whiskers.html` and `spot.html`
+## Your setup command prompt and GitHub steps are (here)[https://github.com/hw-studio-fall17/practice-week-1
+]
+#### Open the week-1 folder in sublime. Notice the filenames: `mr-whiskers.html` and `spot.html`
 
 #### Inside `mr-whiskers.html`
 ---
 1. type `html` then press tab to get your base HTML code. 
-
-... All of the header tags in HTML start with an h plus a number (1-6). 
-            `h1`, `h2`, `h3`, `h4`, `h5`, `h6`
-
 2. Add an `<h1>` tag that says: MEOW, my name is Mr. Whiskers
+> All of the header tags in HTML start with an h plus a number (1-6). EX: `h1`, `h2`, `h3`, `h4`, `h5`, `h6`
 3. From the command line write `start mr-whiskers.html` to see your code in Google Chrome.
 
 
