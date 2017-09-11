@@ -1,8 +1,8 @@
 # Intro to HTML!
 
-#### Open the week_1 folder in sublime. Notice the filenames: `mr-whiskers.html`, `spot.html`, and `we-love-pets.html`
+#### Open the week_1 folder in sublime. Notice the filenames: `mr-whiskers.html` and `spot.html`
 
-##### Inside `mr-whiskers.html`
+#### Inside `mr-whiskers.html`
 ---
 1. type `html` then press tab to get your base HTML code. 
 
@@ -13,14 +13,15 @@
 3. From the command line write `start mr-whiskers.html` to see your code in Google Chrome.
 
 
-##### Inside `spot.html`
+#### Inside `spot.html`
 ---
 1. type `html` then press tab to get your base HTML code.
 2. Add an `<h1>` that says: WOOF, my name is Spot.
 3. From the command line write `start spot.html` to see your code in Google Chrome.
 
 
-##### Extension
+#### Extension
+---
 1. Add some more headers to `mr-whiskers.html`. Use headers with different numbers: `<h2>`, `<h3>`...
 2. What happens when you use bigger numbers after the `<h`?
 3. Look at some more HTML tags on this [website](https://www.w3schools.com/tags/ref_byfunc.asp).
