@@ -2,7 +2,7 @@
 
 #### Open the week_1 folder in sublime. Notice the filenames: `mr-whiskers.html`, `spot.html`, and `we-love-pets.html`
 
-####### Inside `mr-whiskers.html`
+##### Inside `mr-whiskers.html`
 ---
 1. type `html` then press tab to get your base HTML code. 
 
@@ -13,7 +13,7 @@
 3. From the command line write `start mr-whiskers.html` to see your code in Google Chrome.
 
 
-###### Inside `spot.html`
+##### Inside `spot.html`
 ---
 1. type `html` then press tab to get your base HTML code.
 2. Add an `<h1>` that says: WOOF, my name is Spot.
