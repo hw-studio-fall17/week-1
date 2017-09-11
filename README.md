@@ -1,7 +1,6 @@
 # Intro to HTML!
 
-## Your setup command prompt and GitHub steps are [here](https://github.com/hw-studio-fall17/practice-week-1
-)
+## Your setup command prompt and GitHub steps are [here](https://github.com/hw-studio-fall17/practice-week-1)
 #### Open the week-1 folder in sublime. Notice the files named: `mr-whiskers.html` and `spot.html`.
 
 #### Inside `mr-whiskers.html`
