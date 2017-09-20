@@ -8,14 +8,16 @@
 1. Type `html` then press tab to get your base HTML code. 
 2. Add an `<h1>` tag that says: MEOW, my name is Mr. Whiskers.
 > All of the header tags in HTML start with an h plus a number (1-6). EX: `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`
-3. From the command line write `start mr-whiskers.html` to see your code in Google Chrome.
+3. Save your code in sublime!
+4. From the terminal write `open mr-whiskers.html` to see your code in Google Chrome.
 
 
 #### Inside `spot.html`
 ---
 1. Type `html` then press tab to get your base HTML code.
 2. Add an `<h1>` that says: WOOF, my name is Spot.
-3. From the command line write `start spot.html` to see your code in Google Chrome.
+3. Save your code in sublime!
+3. From the terminal write `open spot.html` to see your code in Google Chrome.
 
 
 #### Extensions
